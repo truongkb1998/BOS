@@ -1,0 +1,113 @@
+{
+  "CDIVersion": "6100.0474.7206.2",
+  "IASVersion": "20.1.00000",
+  "ApplicationName": "IndustrialGraphics",
+  "DBChangeLog": 135,
+  "UniqueToolsetId": 214749,
+  "UniqueSymbolId": 219,
+  "IncludeAllGraphics": true,
+  "ItemCollection": {
+    "215": {
+      "Name": "$Symbol",
+      "FolderId": 0,
+      "Id": 215,
+      "Codebase": "ArchestrA.Symbol.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 2,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 132917201309588256,
+      "IsCheckedOut": false
+    },
+    "216": {
+      "Name": "$ClientControl",
+      "FolderId": 0,
+      "Id": 216,
+      "Codebase": "ArchestrA.ClientControl.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 3,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 132917201309628144,
+      "IsCheckedOut": false
+    },
+    "217": {
+      "Name": "$Widget",
+      "FolderId": 0,
+      "Id": 217,
+      "Codebase": "ArchestrA.Widget.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 4,
+      "IsTemplate": true,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 132917201309648092,
+      "IsCheckedOut": false
+    },
+    "218": {
+      "Name": "Screen1",
+      "FolderId": 214749,
+      "Id": 218,
+      "Codebase": "ArchestrA.Symbol.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 215,
+      "IsTemplate": false,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 132917239476791337,
+      "IsCheckedOut": false
+    },
+    "219": {
+      "Name": "Symbol_001",
+      "FolderId": 0,
+      "Id": 219,
+      "Codebase": "ArchestrA.Symbol.1",
+      "GObjectItemType": 0,
+      "Namespace": 3,
+      "ShownInArchestrABrowser": false,
+      "DerivedFromObjectId": 215,
+      "IsTemplate": false,
+      "CategoryId": 16,
+      "IsProtected": false,
+      "MyDIName": "",
+      "ModifiedTimeStamp": 132934374908005808,
+      "IsCheckedOut": false
+    }
+  },
+  "FolderCollection": {
+    "0": {
+      "ParentId": -1,
+      "FolderName": "IndustrialGraphics",
+      "FolderPath": "",
+      "FolderDepth": 0,
+      "FolderId": 0,
+      "HasChildFolders": true,
+      "HasChildItems": true,
+      "ModifiedTimeStamp": 132917204293432321
+    },
+    "214749": {
+      "ParentId": 0,
+      "FolderName": "Screens",
+      "FolderPath": "",
+      "FolderDepth": 1,
+      "FolderId": 214749,
+      "HasChildFolders": false,
+      "HasChildItems": true,
+      "ModifiedTimeStamp": 132917201678292910
+    }
+  }
+}

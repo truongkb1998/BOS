@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	<ViewApplication Name="HAV_V10" RepositoryName="hmi" RepositoryNodeName="hmi">
+		<ScreenProfile ReferenceIndex="0" />
+	</ViewApplication>
